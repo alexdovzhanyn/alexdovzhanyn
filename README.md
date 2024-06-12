@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for building cool things and solving complex problems. 
 
-<a href="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true&theme=ambient_gradient">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true&theme=ambient_gradient" />
+<a href="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true&theme=github_dark_dimmed">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true&theme=github_dark_dimmed" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=alexdovzhanyn&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdovzhanyn&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=alexdovzhanyn&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdovzhanyn&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
 </a>
 
 ## 👨‍💻 About Me
