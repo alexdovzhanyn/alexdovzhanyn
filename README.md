@@ -1,10 +1,10 @@
 # Hi there, I'm Alex! 👋
 
-Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for building cool things and solving complex problems. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for building cool things and solving complex problems. 
 
-## 👨‍💻 About Me
 <img src="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true" alt="Alex Dovzhanyn's github stats">
 
+## 👨‍💻 About Me
 - **Sr. Software Engineer** with a knack for developing robust and scalable systems.
 - Creator of **Elixium**, a blockchain network designed to push the boundaries of decentralized applications.
 - I enjoy crafting tools that make developers' lives easier and more productive.
