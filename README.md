@@ -13,6 +13,10 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for 
 - **Frameworks**: React, Phoenix, Rails.
 - **Tools**: Git, Docker, Kubernetes.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true" alt="Alex Dovzhanyn's github stats">
+</p>
+
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/alex-dovzhanyn/)
 - [Twitter](https://x.com/alexdovzhanyn)
