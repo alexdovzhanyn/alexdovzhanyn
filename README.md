@@ -15,11 +15,10 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for 
 - **Frameworks**: React, Phoenix, Rails.
 - **Tools**: Git, Docker, Kubernetes.
 
-## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/alex-dovzhanyn/)
-- [Twitter](https://x.com/alexdovzhanyn)
-- Email: dovzhanyn.alex@gmail.com
-
 Feel free to explore my repositories and reach out if you want to chat about tech, blockchain, functional programming, or anything in between!
 
-Happy coding! 🚀
+---
+
+You can find me here:
+
+[GitHub](https://github.com/alexdovzhanyn) • [LinkedIn](https://linkedin.com/in/alex-dovzhanyn) • [Twitter](https://x.com/alexdovzhanyn)
