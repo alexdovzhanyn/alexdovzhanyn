@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for 
 ## 🔧 Tools & Technologies
 - **Languages**: Elixir, Ruby, JavaScript, TypeScript, Java, C++, and more.
 - **Frameworks**: React, Phoenix, Rails.
-- **Tools**: Git, Docker, Kubernetes.
+- **Tools**: AWS, Git, Docker.
 
 Feel free to explore my repositories and reach out if you want to chat about tech, blockchain, functional programming, or anything in between!
 
