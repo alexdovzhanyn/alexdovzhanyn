@@ -1,4 +1,4 @@
-# Hi there, I'm Alex! 👋
+# Hi there, I'm Alex! <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" height="35" />
 
 Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for building cool things and solving complex problems. 
 
