@@ -2,12 +2,11 @@
 
 Welcome to my GitHub profile! I'm a Senior Software Engineer with a passion for building cool things and solving complex problems. 
 
-<a href="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true&theme=github_dark_dimmed">
+<div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexdovzhanyn&count_private=true&include_all_commits=true&theme=github_dark_dimmed" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=alexdovzhanyn&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed&size_weight=0.5&count_weight=0.5">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdovzhanyn&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed&size_weight=0.5&count_weight=0.5&hide=html,css" />
-</a>
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdovzhanyn&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed&size_weight=0.5&count_weight=0.5&hide=html,css,scss" />
+</div>
 
 ## 👨‍💻 About Me
 - **Sr. Software Engineer** with a knack for developing robust and scalable systems.
